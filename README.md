@@ -1,4 +1,4 @@
-# Amazon Clone
+# Responsive Amazon Clone
 
 A responsive Amazon homepage clone built using HTML and CSS. This project replicates the basic user interface of Amazon, including the navigation bar, search section, hero banner, product categories, and footer.
 
