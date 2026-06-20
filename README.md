@@ -2,6 +2,10 @@
 
 A responsive Amazon homepage clone built using HTML and CSS. This project replicates the basic user interface of Amazon, including the navigation bar, search section, hero banner, product categories, and footer.
 
+## Preview
+
+![Project Screenshot](Amazon_preview_image.png)
+
 ## Features
 
 * Responsive Navigation Bar
@@ -46,6 +50,10 @@ amazon-clone/
 * JavaScript Interactivity
 * Improved Product Cards
 * Enhanced User Experience
+
+## Live Demo
+
+https://kanak-tech.github.io/Amazon-clone/
 
 ## Author
 
